@@ -1,5 +1,7 @@
 # LPV-Kalman-Filter
+
 In the following repository, you will find:
-Numerical Example - Simulation and Code
-Data Bases for the proposed application and Code
-Overall Scheme Diagram
+
+- Numerical Example - Simulation and Code
+- Data Bases for the proposed application and Code
+- Overall Scheme Diagram
